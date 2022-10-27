@@ -1,7 +1,8 @@
-using Laboratorium_2_20_10_2022.Services;
+
+using Laboratorium_2_20_10_2022.Services.Lab2;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Laboratorium_2_20_10_2022.Controllers
+namespace Laboratorium_2_20_10_2022.Controllers.Lab2
 {
     [ApiController]
     [Route("[controller]/[action]")]
