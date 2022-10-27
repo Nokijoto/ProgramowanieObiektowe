@@ -1,4 +1,4 @@
-﻿namespace Laboratorium_2_20_10_2022.Services
+﻿namespace Laboratorium_2_20_10_2022.Services.Lab2
 {
     public class Calculate
     {
