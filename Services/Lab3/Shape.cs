@@ -16,7 +16,7 @@
         {
             return Width * Height * (int)x;
         }
-        public int getShorterSide()
+        public virtual int getShorterSide()
         {
             //if (Width < Height)
             //{
