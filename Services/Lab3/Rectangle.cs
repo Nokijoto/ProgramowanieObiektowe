@@ -12,10 +12,11 @@
             var result = new Rectangle(a.Width + b.Width, a.Height + b.Height);
             return result.getArea();
         }
-
+         
         public override int getShorterSide()
         {
             return 456;
         }
     }
+    //Jasiu mówi do taty żeby zrobił klasę Square która dziedziczy po Rectangle i ma dodatkowo pole side 
 }
